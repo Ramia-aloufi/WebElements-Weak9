@@ -58,7 +58,6 @@ public class Switching_to_a_New_Window_in_Selenium {
 		System.out.println("WindowHandlesSize : "+driver.getWindowHandles().size());
 		System.out.println("WindowTitle : "+driver.getTitle());
 		System.out.println("-----------------------------------------------------");
-		driver.close();
 		Thread.sleep(5000);
 		
 		driver.switchTo().newWindow(WindowType.WINDOW);
