@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day1.Switching_to_a_New_Window_in_Selenium">
+      <class name="Day2.Working_with_the_Scrollbar">
         <methods>
-          <include name="xPath"/>
+          <include name="XPath"/>
         </methods>
-      </class> <!-- Day1.Switching_to_a_New_Window_in_Selenium -->
+      </class> <!-- Day2.Working_with_the_Scrollbar -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
