@@ -28,7 +28,7 @@ public class Interacting_with_Web_Elements_Scrolling_Techniques {
 		
 
 		js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
-		Thread.sleep(4000);
+		Thread.sleep(1000);
 
 					
 		

@@ -24,11 +24,12 @@ public class Working_with_the_Scrollbar {
 		Thread.sleep(4000);
 		
         Actions act = new Actions(driver);
-        act.sendKeys(Keys.PAGE_DOWN).build().perform(); //Page Down
+        //Page Down
+        act.sendKeys(Keys.PAGE_DOWN).build().perform(); 
         System.out.println("Scroll down perfomed");
         Thread.sleep(3000);
-     
-        act.sendKeys(Keys.PAGE_UP).build().perform();       //Page Up
+      //Page Up
+        act.sendKeys(Keys.PAGE_UP).build().perform();       
         System.out.println("Scroll up perfomed");
         Thread.sleep(3000);
 					

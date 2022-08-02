@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day2.Working_with_the_Scrollbar">
+      <class name="Day3.How_to_Login_using_CSSSelector">
         <methods>
-          <include name="XPath"/>
+          <include name="CssSelector"/>
         </methods>
-      </class> <!-- Day2.Working_with_the_Scrollbar -->
+      </class> <!-- Day3.How_to_Login_using_CSSSelector -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
