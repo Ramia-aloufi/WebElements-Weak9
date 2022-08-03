@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day3.How_to_Login_using_CSSSelector">
+      <class name="Day4.Copy_and_Paste_a_Web_Element_Value">
         <methods>
-          <include name="CssSelector"/>
+          <include name="events"/>
         </methods>
-      </class> <!-- Day3.How_to_Login_using_CSSSelector -->
+      </class> <!-- Day4.Copy_and_Paste_a_Web_Element_Value -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
