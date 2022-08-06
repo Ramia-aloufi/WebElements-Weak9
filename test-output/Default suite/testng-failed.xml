@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day4.Copy_and_Paste_a_Web_Element_Value">
+      <class name="Day5.Practice">
         <methods>
-          <include name="events"/>
+          <include name="main"/>
         </methods>
-      </class> <!-- Day4.Copy_and_Paste_a_Web_Element_Value -->
+      </class> <!-- Day5.Practice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

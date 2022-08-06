@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-03T14:13:23 AST" name="Default suite" finished-at="2022-08-03T14:14:01 AST" duration-ms="37647">
+  <suite started-at="2022-08-06T03:23:23 AST" name="Default suite" finished-at="2022-08-06T03:23:57 AST" duration-ms="33932">
     <groups>
     </groups>
-    <test started-at="2022-08-03T14:13:23 AST" name="Default test" finished-at="2022-08-03T14:14:01 AST" duration-ms="37647">
-      <class name="Day4.Copy_and_Paste_a_Web_Element_Value">
-        <test-method signature="events()[pri:0, instance:Day4.Copy_and_Paste_a_Web_Element_Value@ed7f8b4]" started-at="2022-08-03T14:13:23 AST" name="events" finished-at="2022-08-03T14:14:01 AST" duration-ms="37586" status="PASS">
+    <test started-at="2022-08-06T03:23:23 AST" name="Default test" finished-at="2022-08-06T03:23:57 AST" duration-ms="33932">
+      <class name="Day5.DragandDrop">
+        <test-method signature="dragdrop()[pri:0, instance:Day5.DragandDrop@ed7f8b4]" started-at="2022-08-06T03:23:23 AST" name="dragdrop" finished-at="2022-08-06T03:23:57 AST" duration-ms="33875" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- events -->
-      </class> <!-- Day4.Copy_and_Paste_a_Web_Element_Value -->
+        </test-method> <!-- dragdrop -->
+      </class> <!-- Day5.DragandDrop -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
